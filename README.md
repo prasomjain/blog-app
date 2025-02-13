@@ -1,4 +1,4 @@
-MERN Blog App
+#MERN Blog App
 
 A full-stack MERN (MongoDB, Express.js, React, Node.js) blog application with authentication, CRUD functionalities, and a rich text editor.
 
